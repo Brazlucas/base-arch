@@ -5,6 +5,8 @@ APPS=(
   # "alacritty"
   # "zsh"
   # "tmux"
+  "nvm"
+  # "npm"
   # 
   # # Utils
   # "spotifyd"
@@ -17,7 +19,7 @@ APPS=(
   # "git"
   # "zig"
   # "nodejs"
-  "php"
+  # "php"
   # "composer"
   # "neovim"
   # "docker"
