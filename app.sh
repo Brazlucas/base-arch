@@ -2,26 +2,26 @@
 
 APPS=(
   # # Shell
-  # "alacritty"
-  # "zsh"
-  # "tmux"
+  "alacritty"
+  "zsh"
+  "tmux"
   "nvm"
-  # "npm"
+  "npm"
   # 
   # # Utils
   # "spotifyd"
   # "spotify-tui"
-  # "neofetch"
+  "neofetch"
   # "firefox-developer-edition"
-  # "nano"
+  "nano"
   # 
   # # Dev
-  # "git"
+  "git"
   # "zig"
-  # "nodejs"
+  "nodejs"
   # "php"
-  # "composer"
+  "composer"
   # "neovim"
-  # "docker"
-  # "docker-compose"
+  "docker"
+  "docker-compose"
 )
